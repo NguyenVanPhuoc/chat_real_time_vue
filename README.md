@@ -15,10 +15,12 @@
   ```
   ```sh
   uvicorn main:app –reload
+  ```
   
 
 ## 2. Front-end
 
+```sh
   npm install
   ```
   ```sh
